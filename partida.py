@@ -130,7 +130,7 @@ st.table(jogoscopa[['grupo', 'seleção1', 'seleção2', 'Vitória', 'Empate', '
 
 
 st.markdown('---')
-st.markdown('Lyssandro Silveira')
+st.markdown('')
 
 #bandeira1, nome1, prob, empate, prob, nome2, bandeira2
 #matriz de probabilidades do jogo
